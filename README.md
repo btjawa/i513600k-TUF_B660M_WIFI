@@ -23,9 +23,9 @@ Current OC Version: 0.9.9
 
 iGPU UHD770 is **not supported** by macOS.
 
-AMD Radeon RX 5500 XT 8 GB is **Free Drive**. You may need to configure your own GPU.
+AMD Radeon RX 5500 XT 8 GB **driver-free**. You may need to configure your own GPU.
 
-Hibernate / Sleep is **not working**.
+Hibernate / Sleep is **working now**.
 
 Already fixed WiFi in Sonoma 14.4. (Untested in external WNICs)
 
