@@ -2,9 +2,9 @@
 
 ![About](about.png)
 
-Current Version: macOS Sonoma 14.4 (23E214)
+Current Version: macOS Sonoma 14.5 (23F79)
 
-Current OC Version: 0.9.9
+Current OC Version: 1.0.0 Release
 
 ## Hardware
 
@@ -21,13 +21,17 @@ Current OC Version: 0.9.9
 
 ## Notes
 
-iGPU UHD770 is **not supported** by macOS.
+If you want to receive Delta Updates, ensure that you have enabled SIP.
+
+Hibernate / Sleep is **working now**, but ensure that `hibernatemode` is set to `0`.
+
+You can check `hibernatemode` using `pmset -g | grep hibernatemode`.
+
+iGPU UHD770 is **unsupported** by macOS.
 
 AMD Radeon RX 5500 XT 8 GB **driver-free**. You may need to configure your own GPU.
 
-Hibernate / Sleep is **working now**.
-
-Already fixed WiFi in Sonoma 14.4. (Untested in external WNICs)
+Already fixed WiFi / BT in Sonoma 14.5. (Untested in external WNICs)
 
 ### USB Mapping
 
