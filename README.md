@@ -14,7 +14,7 @@ Current OC Version: 1.0.0 Release
 | Motherboard | ASUS TUF GAMING B660M-PLUS Wi-Fi D4 |
 | GPU      | AMD Radeon RX 5500 XT 8 GB |
 | RAM      | Corsair 3200MHz 16 GB * 4 |
-| SSD      | KIOXIA-EXCERIA PLUS G2 1T PCIE 3.0 |
+| SSD      | Western Digital WD Blue SN580 2TB |
 | Sound Card | Realtek-ALC897 + M-AUDIO M-Track Solo |
 | Ethernet | Realtek-8125 Ethernet 2.5GbE |
 | Wi-Fi / BT | Intel Wi-Fi 6 AX201 |
