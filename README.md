@@ -2,9 +2,9 @@
 
 ![About](about.png)
 
-Current Version: macOS Sonoma 14.5 (23F79)
+Current Version: macOS Sequoia 15.0 (24A335)
 
-Current OC Version: 1.0.0 Release
+Current OC Version: 1.0.1 Release
 
 ## Hardware
 
@@ -31,7 +31,7 @@ iGPU UHD770 is **unsupported** by macOS.
 
 AMD Radeon RX 5500 XT 8 GB **driver-free**. You may need to configure your own GPU.
 
-Already fixed WiFi / BT in Sonoma 14.5. (Untested in external WNICs)
+Haven't fixed WiFi / BT in Sequoia 15.0 yet. (Untested in external WNICs)
 
 ### USB Mapping
 
